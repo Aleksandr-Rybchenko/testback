@@ -1,5 +1,5 @@
 .wrapper{
     max-width: 1920px;
-    background-image: url(./img/firstSection/welcome.jpg);
+   background: url(./img/firstSection/welcome.jpg);
     height: 500px;
 }
